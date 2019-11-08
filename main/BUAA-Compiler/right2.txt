@@ -1,0 +1,95 @@
+const Char  con_char_1 = 'a', con_char_2 =  '+';		
+const int  con_int_1 = +001, con_int_2 = -007;		
+const char _abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 = '+';
+const int ______ = 2;
+int i, flag[100];						
+int mode;
+
+int fib(int _x){									
+	if (1!=0){
+		if (_x == 1)								
+			return (1);
+		else if (_x == 2){
+			return (2);						
+		}
+		else
+			return(fib(_x - 1) + fib(_x - 2));
+	}
+	else{
+		printf("BAD RESULT IN fib");
+		return (-1);
+	}
+}
+
+void fun1(char x){
+	const int con_int_1 = 02;
+	int tmp;	flag[0]=1;	flag[1]=-1;
+	if(CON_INT_1==1){
+		tmp = 1;
+	}
+	else if(CON_INT_1!=2){
+		tmp = 2;
+	}
+	else if((CON_INT_1-1)<=-1){
+		tmp = 3;
+	}
+	else if(flag[0]+flag[1]>CON_INT_1*CON_INT_1){
+		tmp = 4;
+	}
+	else if((+2+(-con_INT_1))/FLAG[0]>=10*flag[0]+fib(flAg[0]+4)){
+		tmp = 5;
+	}
+	else{
+		if((+2+(-con_INT_1))/FLAG[+2+(-con_INT_1)]+13!=10*flag[0]+fib(flAg[0]+fib(con_int_1)))
+			tmp = 7;
+		else
+			tmp = 6;
+	}
+	printf("FUNC WITH PARA BUT NO RETURN", tmp+x);							
+}
+
+void fun2{
+	int n, tmp[3], a;
+	char c;
+	n = 2;
+	tmp[n] = n;								
+	a = -(+2 + con_char_1 - '-' - (fib(3)))*(n / tmp[n] + 1);														
+	printf(a);
+	printf(tmp[n]);										
+	a = --001014 - '0';								
+	printf(a);
+	printf("");
+	printf(______);									
+	printf(" !#$%&'()*+,-./0123456789:;<=>?@ ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~");
+	return;										
+}
+
+void none1{;;;;{										
+	;}{{}{};}{printf("none1 ok");}
+}
+
+void none2{
+
+{{}{printf("none2 ok");}}}
+
+void main(){										
+	int in;
+	char cin;
+	scanf(mode,in);									
+	switch (mode){									
+		case 2: {
+				scanf(cin);
+				fun1(cin);								
+				fun2;
+		}
+		case 3:{
+			   scanf(cin);							
+			   switch (cin){							
+			   	case '*': none1;					
+			   	case '/': none2;
+			   	default: printf("WRONG INPUT IN CASE3");
+			   }
+		}		
+		default: printf("WRONG INPUT!");
+	}
+}	

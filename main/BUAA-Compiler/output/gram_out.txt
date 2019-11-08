@@ -1,0 +1,553 @@
+In Line 1 :  This is a const definition !
+In Line 1 :  This is a const definition !
+In Line 2 :  This is a const definition !
+In Line 2 :  This is a const definition !
+In Line 3 :  This is a const definition !
+In Line 4 :  This is a const definition !
+In Line 5 :  This is a const definition !
+In Line 6 :  This is a const definition !
+In Line 6 :  This is a const definition !
+In Line 6 :  This is a const definition !
+In Line 6 :  This is a const definition !
+In Line 7 :  This is a const definition !
+In Line 7 :  This is a const definition !
+In Line 7 :  This is a const definition !
+In Line 7 :  This is a const definition !
+In Line 7 :  This is a const definition !
+In Line 9 :  This is a var definition !
+In Line 9 :  This is a var definition !
+In Line 10 :  This is a var definition !
+In Line 12 :  This is a customerized function definition !
+In Line 13 :  This is an if-else statement !
+In Line 13 :  This is an expression !
+In Line 13 :  This is an expression !
+In Line 14 :  This is an if-else statement !
+In Line 14 :  This is an expression !
+In Line 14 :  This is an expression !
+In Line 15 :  This is a return statement !
+In Line 15 :  This is an expression !
+In Line 16 :  This is an if-else statement !
+In Line 16 :  This is an expression !
+In Line 16 :  This is an expression !
+In Line 17 :  This is a return statement !
+In Line 17 :  This is an expression !
+In Line 20 :  This is a return statement !
+In Line 20 :  This is an expression !
+In Line 20 :  This is an expression !
+In Line 20 :  This is an expression !
+In Line 23 :  This is a printf statement ! 
+In Line 24 :  This is a return statement !
+In Line 24 :  This is an expression !
+In Line 28 :  This is a customerized function definition !
+In Line 29 :  This is a const definition !
+In Line 30 :  This is a var definition !
+In Line 31 :  This is a var definition !
+In Line 32 :  This is a var definition !
+In Line 34 :  This is an assign statement !
+In Line 34 :  This is an expression !
+In Line 34 :  This is an expression !
+In Line 34 :  This is an assign statement !
+In Line 34 :  This is an expression !
+In Line 34 :  This is an expression !
+In Line 34 :  This is an assign statement !
+In Line 34 :  This is an expression !
+In Line 34 :  This is an expression !
+In Line 34 :  This is an assign statement !
+In Line 34 :  This is an expression !
+In Line 34 :  This is an expression !
+In Line 34 :  This is an assign statement !
+In Line 34 :  This is an expression !
+In Line 34 :  This is an expression !
+In Line 34 :  This is an assign statement !
+In Line 34 :  This is an expression !
+In Line 34 :  This is an expression !
+In Line 35 :  This is an assign statement !
+In Line 35 :  This is an expression !
+In Line 35 :  This is an expression !
+In Line 35 :  This is an assign statement !
+In Line 35 :  This is an expression !
+In Line 35 :  This is an expression !
+In Line 35 :  This is an assign statement !
+In Line 35 :  This is an expression !
+In Line 35 :  This is an expression !
+In Line 35 :  This is an assign statement !
+In Line 35 :  This is an expression !
+In Line 35 :  This is an expression !
+In Line 35 :  This is an assign statement !
+In Line 35 :  This is an expression !
+In Line 35 :  This is an expression !
+In Line 35 :  This is an assign statement !
+In Line 35 :  This is an expression !
+In Line 35 :  This is an expression !
+In Line 36 :  This is an assign statement !
+In Line 36 :  This is an expression !
+In Line 36 :  This is an expression !
+In Line 36 :  This is an assign statement !
+In Line 36 :  This is an expression !
+In Line 36 :  This is an expression !
+In Line 36 :  This is an assign statement !
+In Line 36 :  This is an expression !
+In Line 36 :  This is an expression !
+In Line 36 :  This is an assign statement !
+In Line 36 :  This is an expression !
+In Line 36 :  This is an expression !
+In Line 36 :  This is an assign statement !
+In Line 36 :  This is an expression !
+In Line 36 :  This is an expression !
+In Line 36 :  This is an assign statement !
+In Line 36 :  This is an expression !
+In Line 36 :  This is an expression !
+In Line 37 :  This is an assign statement !
+In Line 37 :  This is an expression !
+In Line 37 :  This is an expression !
+In Line 37 :  This is an assign statement !
+In Line 37 :  This is an expression !
+In Line 37 :  This is an expression !
+In Line 37 :  This is an assign statement !
+In Line 37 :  This is an expression !
+In Line 37 :  This is an expression !
+In Line 37 :  This is an assign statement !
+In Line 37 :  This is an expression !
+In Line 37 :  This is an expression !
+In Line 37 :  This is an assign statement !
+In Line 37 :  This is an expression !
+In Line 37 :  This is an expression !
+In Line 37 :  This is an assign statement !
+In Line 37 :  This is an expression !
+In Line 37 :  This is an expression !
+In Line 38 :  This is an assign statement !
+In Line 38 :  This is an expression !
+In Line 38 :  This is an expression !
+In Line 38 :  This is an assign statement !
+In Line 38 :  This is an expression !
+In Line 38 :  This is an expression !
+In Line 38 :  This is an assign statement !
+In Line 38 :  This is an expression !
+In Line 38 :  This is an expression !
+In Line 38 :  This is an assign statement !
+In Line 38 :  This is an expression !
+In Line 38 :  This is an expression !
+In Line 38 :  This is an assign statement !
+In Line 38 :  This is an expression !
+In Line 38 :  This is an expression !
+In Line 38 :  This is an assign statement !
+In Line 38 :  This is an expression !
+In Line 38 :  This is an expression !
+In Line 39 :  This is an assign statement !
+In Line 39 :  This is an expression !
+In Line 39 :  This is an expression !
+In Line 39 :  This is an assign statement !
+In Line 39 :  This is an expression !
+In Line 39 :  This is an expression !
+In Line 39 :  This is an assign statement !
+In Line 39 :  This is an expression !
+In Line 39 :  This is an expression !
+In Line 39 :  This is an assign statement !
+In Line 39 :  This is an expression !
+In Line 39 :  This is an expression !
+In Line 39 :  This is an assign statement !
+In Line 39 :  This is an expression !
+In Line 39 :  This is an expression !
+In Line 39 :  This is an assign statement !
+In Line 39 :  This is an expression !
+In Line 39 :  This is an expression !
+In Line 40 :  This is an assign statement !
+In Line 40 :  This is an expression !
+In Line 40 :  This is an expression !
+In Line 40 :  This is an assign statement !
+In Line 40 :  This is an expression !
+In Line 40 :  This is an expression !
+In Line 40 :  This is an assign statement !
+In Line 40 :  This is an expression !
+In Line 40 :  This is an expression !
+In Line 40 :  This is an assign statement !
+In Line 40 :  This is an expression !
+In Line 40 :  This is an expression !
+In Line 40 :  This is an assign statement !
+In Line 40 :  This is an expression !
+In Line 40 :  This is an expression !
+In Line 40 :  This is an assign statement !
+In Line 40 :  This is an expression !
+In Line 40 :  This is an expression !
+In Line 41 :  This is an assign statement !
+In Line 41 :  This is an expression !
+In Line 41 :  This is an expression !
+In Line 41 :  This is an assign statement !
+In Line 41 :  This is an expression !
+In Line 41 :  This is an expression !
+In Line 41 :  This is an assign statement !
+In Line 41 :  This is an expression !
+In Line 41 :  This is an expression !
+In Line 41 :  This is an assign statement !
+In Line 41 :  This is an expression !
+In Line 41 :  This is an expression !
+In Line 41 :  This is an assign statement !
+In Line 41 :  This is an expression !
+In Line 41 :  This is an expression !
+In Line 41 :  This is an assign statement !
+In Line 41 :  This is an expression !
+In Line 41 :  This is an expression !
+In Line 42 :  This is an assign statement !
+In Line 42 :  This is an expression !
+In Line 42 :  This is an expression !
+In Line 42 :  This is an assign statement !
+In Line 42 :  This is an expression !
+In Line 42 :  This is an expression !
+In Line 42 :  This is an assign statement !
+In Line 42 :  This is an expression !
+In Line 42 :  This is an expression !
+In Line 42 :  This is an assign statement !
+In Line 42 :  This is an expression !
+In Line 42 :  This is an expression !
+In Line 42 :  This is an assign statement !
+In Line 42 :  This is an expression !
+In Line 42 :  This is an expression !
+In Line 42 :  This is an assign statement !
+In Line 42 :  This is an expression !
+In Line 42 :  This is an expression !
+In Line 43 :  This is an assign statement !
+In Line 43 :  This is an expression !
+In Line 43 :  This is an expression !
+In Line 43 :  This is an assign statement !
+In Line 43 :  This is an expression !
+In Line 43 :  This is an expression !
+In Line 43 :  This is an assign statement !
+In Line 43 :  This is an expression !
+In Line 43 :  This is an expression !
+In Line 43 :  This is an assign statement !
+In Line 43 :  This is an expression !
+In Line 43 :  This is an expression !
+In Line 43 :  This is an assign statement !
+In Line 43 :  This is an expression !
+In Line 43 :  This is an expression !
+In Line 43 :  This is an assign statement !
+In Line 43 :  This is an expression !
+In Line 43 :  This is an expression !
+In Line 44 :  This is an assign statement !
+In Line 44 :  This is an expression !
+In Line 44 :  This is an expression !
+In Line 44 :  This is an assign statement !
+In Line 44 :  This is an expression !
+In Line 44 :  This is an expression !
+In Line 44 :  This is an assign statement !
+In Line 44 :  This is an expression !
+In Line 44 :  This is an expression !
+In Line 44 :  This is an assign statement !
+In Line 44 :  This is an expression !
+In Line 44 :  This is an expression !
+In Line 44 :  This is an assign statement !
+In Line 44 :  This is an expression !
+In Line 44 :  This is an expression !
+In Line 44 :  This is an assign statement !
+In Line 44 :  This is an expression !
+In Line 44 :  This is an expression !
+In Line 44 :  This is an assign statement !
+In Line 44 :  This is an expression !
+In Line 44 :  This is an expression !
+In Line 45 :  This is a printf statement ! 
+In Line 45 :  This is an expression !
+In Line 46 :  This is a return statement !
+In Line 46 :  This is an expression !
+In Line 46 :  This is an expression !
+In Line 46 :  This is an expression !
+In Line 50 :  This is a customerized function definition !
+In Line 51 :  This is a const definition !
+In Line 52 :  This is a var definition !
+In Line 52 :  This is an assign statement !
+In Line 52 :  This is an expression !
+In Line 52 :  This is an expression !
+In Line 52 :  This is an assign statement !
+In Line 52 :  This is an expression !
+In Line 52 :  This is an expression !
+In Line 53 :  This is an if-else statement !
+In Line 53 :  This is an expression !
+In Line 53 :  This is an expression !
+In Line 54 :  This is an assign statement !
+In Line 54 :  This is an expression !
+In Line 56 :  This is an if-else statement !
+In Line 56 :  This is an expression !
+In Line 56 :  This is an expression !
+In Line 57 :  This is an assign statement !
+In Line 57 :  This is an expression !
+In Line 59 :  This is an if-else statement !
+In Line 59 :  This is an expression !
+In Line 59 :  This is an expression !
+In Line 59 :  This is an expression !
+In Line 60 :  This is an assign statement !
+In Line 60 :  This is an expression !
+In Line 62 :  This is an if-else statement !
+In Line 62 :  This is an expression !
+In Line 62 :  This is an expression !
+In Line 62 :  This is an expression !
+In Line 62 :  This is an expression !
+In Line 63 :  This is an assign statement !
+In Line 63 :  This is an expression !
+In Line 65 :  This is an if-else statement !
+In Line 65 :  This is an expression !
+In Line 65 :  This is an expression !
+In Line 65 :  This is an expression !
+In Line 65 :  This is an expression !
+In Line 65 :  This is an expression !
+In Line 65 :  This is an expression !
+In Line 65 :  This is an expression !
+In Line 65 :  This is an expression !
+In Line 66 :  This is an assign statement !
+In Line 66 :  This is an expression !
+In Line 69 :  This is an if-else statement !
+In Line 69 :  This is an expression !
+In Line 69 :  This is an expression !
+In Line 69 :  This is an expression !
+In Line 69 :  This is an expression !
+In Line 69 :  This is an expression !
+In Line 69 :  This is an expression !
+In Line 69 :  This is an expression !
+In Line 69 :  This is an expression !
+In Line 69 :  This is an expression !
+In Line 69 :  This is an expression !
+In Line 70 :  This is an assign statement !
+In Line 70 :  This is an expression !
+In Line 72 :  This is an assign statement !
+In Line 72 :  This is an expression !
+In Line 74 :  This is a printf statement ! 
+In Line 74 :  This is an expression !
+In Line 77 :  This is a customerized function definition !
+In Line 78 :  This is a var definition !
+In Line 78 :  This is a var definition !
+In Line 78 :  This is a var definition !
+In Line 78 :  This is a var definition !
+In Line 79 :  This is a var definition !
+In Line 80 :  This is an assign statement !
+In Line 80 :  This is an expression !
+In Line 81 :  This is an assign statement !
+In Line 81 :  This is an expression !
+In Line 81 :  This is an expression !
+In Line 82 :  This is an assign statement !
+In Line 82 :  This is an expression !
+In Line 82 :  This is an expression !
+In Line 82 :  This is an expression !
+In Line 82 :  This is an expression !
+In Line 82 :  This is an expression !
+In Line 82 :  This is an expression !
+In Line 83 :  This is a printf statement ! 
+In Line 83 :  This is an expression !
+In Line 84 :  This is a printf statement ! 
+In Line 84 :  This is an expression !
+In Line 84 :  This is an expression !
+In Line 85 :  This is an assign statement !
+In Line 85 :  This is an expression !
+In Line 86 :  This is a printf statement ! 
+In Line 86 :  This is an expression !
+In Line 87 :  This is a printf statement ! 
+In Line 88 :  This is a printf statement ! 
+In Line 88 :  This is an expression !
+In Line 89 :  This is a printf statement ! 
+In Line 90 :  This is a return statement !
+In Line 93 :  This is a customerized function definition !
+In Line 94 :  This is a printf statement ! 
+In Line 97 :  This is a customerized function definition !
+In Line 99 :  This is a printf statement ! 
+In Line 101 :  This is a customerized function definition !
+In Line 102 :  This is an assign statement !
+In Line 102 :  This is an expression !
+In Line 103 :  This is a do-while statement !
+In Line 104 :  This is an assign statement !
+In Line 104 :  This is an expression !
+In Line 104 :  This is an expression !
+In Line 105 :  This is an assign statement !
+In Line 105 :  This is an expression !
+In Line 106 :  This is an expression !
+In Line 106 :  This is an expression !
+In Line 107 :  This is a printf statement ! 
+In Line 107 :  This is an expression !
+In Line 107 :  This is an expression !
+In Line 110 :  This is a customerized function definition !
+In Line 111 :  This is a printf statement ! 
+In Line 111 :  This is an expression !
+In Line 112 :  This is a printf statement ! 
+In Line 112 :  This is an expression !
+In Line 113 :  This is a printf statement ! 
+In Line 113 :  This is an expression !
+In Line 114 :  This is a printf statement ! 
+In Line 114 :  This is an expression !
+In Line 115 :  This is a printf statement ! 
+In Line 115 :  This is an expression !
+In Line 116 :  This is a printf statement ! 
+In Line 116 :  This is an expression !
+In Line 117 :  This is a return statement !
+In Line 117 :  This is an expression !
+In Line 121 :  This is the main function entry !
+In Line 122 :  This is a var definition !
+In Line 123 :  This is a var definition !
+In Line 124 :  This is a scanf statement !
+In Line 125 :  This is a switch-case-default statement !
+In Line 125 :  This is an expression !
+In Line 126 :  This is a one case statement !
+In Line 128 :  This is a function call with some parameters !
+In Line 128 :  This is an expression !
+In Line 130 :  This is a one case statement !
+In Line 131 :  This is a scanf statement !
+In Line 132 :  This is a function call with some parameters !
+In Line 132 :  This is an expression !
+In Line 133 :  This is a function call with no parameters !
+In Line 135 :  This is a one case statement !
+In Line 136 :  This is a scanf statement !
+In Line 137 :  This is a switch-case-default statement !
+In Line 137 :  This is an expression !
+In Line 138 :  This is a one case statement !
+In Line 138 :  This is a function call with no parameters !
+In Line 139 :  This is a one case statement !
+In Line 139 :  This is a function call with no parameters !
+In Line 140 :  This is a default statement !
+In Line 140 :  This is a printf statement ! 
+In Line 143 :  This is a one case statement !
+In Line 143 :  This is a printf statement ! 
+In Line 143 :  This is an expression !
+In Line 144 :  This is a one case statement !
+In Line 144 :  This is a printf statement ! 
+In Line 144 :  This is an expression !
+In Line 144 :  This is an expression !
+In Line 144 :  This is an expression !
+In Line 144 :  This is an expression !
+In Line 144 :  This is an expression !
+In Line 144 :  This is an expression !
+In Line 144 :  This is an expression !
+In Line 144 :  This is an expression !
+In Line 144 :  This is an expression !
+In Line 144 :  This is an expression !
+In Line 144 :  This is an expression !
+In Line 145 :  This is a default statement !
+In Line 145 :  This is a printf statement ! 
+--------GLOBAL CONST--------
+名称		类型		值		偏移
+______  2  2  0
+_abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz0123456789  3  43  0
+_char_1  3  97  0
+_char_2  3  98  0
+_char_3  3  99  0
+_char_4  3  100  0
+_char_5  3  101  0
+_int_1  2  1  0
+_int_2  2  2  0
+_int_3  2  3  0
+_int_4  2  4  0
+_int_5  2  5  0
+con_char_1  3  97  0
+con_char_2  3  43  0
+con_int_1  2  1  0
+con_int_2  2  -7  0
+
+--------GLOBAL VAR--------
+名称		类型		长度		偏移
+GLOBAL_VAR_OFFSET : 102
+flag  2  100  1
+i  2  0  0
+mode  2  0  101
+
+--------GLOBAL FUN--------
+函数名称		返回值	  有无参数	  总偏移
+do_while_test  4  3  7
+--------CONST IN FUN--------
+--------VAR IN FUN--------
+#37  2  0  1
+#38  2  0  2
+#39  2  0  3
+#40  2  0  4
+#41  2  0  5
+#42  2  0  6
+
+函数名称		返回值	  有无参数	  总偏移
+fib  2  3  6
+--------CONST IN FUN--------
+--------VAR IN FUN--------
+#0  2  0  1
+#1  2  0  2
+#2  2  0  3
+#3  2  0  4
+#4  2  0  5
+
+函数名称		返回值	  有无参数	  总偏移
+fun0  3  4  71
+--------CONST IN FUN--------
+con_char_1  3  95  0
+--------VAR IN FUN--------
+#5  2  0  69
+#6  2  0  70
+array  3  67  2
+t_char_1  3  0  1
+t_int_1  2  0  0
+
+函数名称		返回值	  有无参数	  总偏移
+fun1  4  3  24
+--------CONST IN FUN--------
+con_int_1  2  2  0
+--------VAR IN FUN--------
+#10  2  0  5
+#11  2  0  6
+#12  2  0  7
+#13  2  0  8
+#14  2  0  9
+#15  2  0  10
+#16  2  0  11
+#17  2  0  12
+#18  2  0  13
+#19  2  0  14
+#20  2  0  15
+#21  2  0  16
+#22  2  0  17
+#23  2  0  18
+#24  2  0  19
+#25  2  0  20
+#26  2  0  21
+#27  2  0  22
+#28  2  0  23
+#7  2  0  2
+#8  2  0  3
+#9  2  0  4
+tmp  2  0  1
+
+函数名称		返回值	  有无参数	  总偏移
+fun2  4  4  14
+--------CONST IN FUN--------
+--------VAR IN FUN--------
+#29  2  0  6
+#30  2  0  7
+#31  2  0  8
+#32  2  0  9
+#33  2  0  10
+#34  2  0  11
+#35  2  0  12
+#36  2  0  13
+a  2  0  4
+c  3  0  5
+n  2  0  0
+tmp  2  3  1
+
+函数名称		返回值	  有无参数	  总偏移
+fun3  3  3  14
+--------CONST IN FUN--------
+--------VAR IN FUN--------
+#43  2  0  10
+#44  2  0  11
+#45  2  0  12
+#46  2  0  13
+
+函数名称		返回值	  有无参数	  总偏移
+main  4  4  5
+--------CONST IN FUN--------
+--------VAR IN FUN--------
+#47  2  0  2
+#48  2  0  3
+#49  2  0  4
+cin  3  0  1
+in  2  0  0
+
+函数名称		返回值	  有无参数	  总偏移
+none1  4  4  0
+--------CONST IN FUN--------
+--------VAR IN FUN--------
+
+函数名称		返回值	  有无参数	  总偏移
+none2  4  4  0
+--------CONST IN FUN--------
+--------VAR IN FUN--------
+

@@ -1,0 +1,25 @@
+int b;
+int s[10];
+
+char add(int a, char b){
+	const char a = 'a';
+	printf("fib",a);
+	return ('7');
+}
+
+void main(){
+	const int ss = 4;
+	int sss;
+	char c, d;
+	c = 'a';
+	d = 's';
+	add(3);
+	if((d)<(add(b,c)))
+		sss = 8;
+	else
+		;
+	b=10;
+	add(b,c);
+	printf("foo1",b);
+	return;
+}

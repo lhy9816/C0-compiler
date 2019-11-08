@@ -1,0 +1,20 @@
+const Char  con_char_1 = 'a', con_char_2 =  '+';		
+const int  con_int_1 = +001, con_int_2 = -007;		
+const int ______ = 2;
+
+int i, flag[100];						
+int mode;
+
+int fun1(int a, char b){
+	
+}
+
+char fun2{
+	return(1);
+}
+void main(){
+	int aa, bb;
+	fun1(aa);
+	fun1(aa,bb);
+	fun1(aa,'a',aa);
+}

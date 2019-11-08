@@ -1,0 +1,20 @@
+int b;
+int s[10];
+
+int add{
+	b = b+1;
+	return(b);
+}
+
+int add1(int a, int b){
+	int c;
+	c=a+b;
+	return (c);
+}
+
+void main(){
+	s[9]=5;
+	scanf(b);
+	printf(add-b*add1(b,add)+add+add);
+	return;
+}

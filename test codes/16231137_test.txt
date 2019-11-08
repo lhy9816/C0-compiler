@@ -1,0 +1,147 @@
+const Char  con_char_1 = 'a', con_char_2 =  '+';		
+const int  con_int_1 = +001, con_int_2 = -007;		
+const char _abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 = '+';
+const int ______ = 2;
+const char _char_1 = 'a';
+const char _char_2 = 'b', _char_3 = 'c', _char_4 = 'd', _char_5 = 'e';
+const int _int_1 = 1, _int_2 = 2, _int_3 = 3, _int_4 = 4, _int_5 = 5;
+
+int i, flag[100];						
+int mode;
+
+int fib(int _x){									
+	if (1!=0){
+		if (_x == 1)								
+			return (1);
+		else if (_x == 2){
+			return (2);						
+		}
+		else
+			return(fib(_x - 1) + fib(_x - 2));
+	}
+	else{
+		printf("BAD RESULT IN fib");
+		return (-1);
+	}
+}
+
+char fun0{										
+	const char  con_char_1 = '_';					
+	int t_int_1;
+	char t_char_1;
+	char ArRaY[67];							
+	{
+		ArRaY[0] = '+'; ArRaY[1] = '-'; ArRaY[2] = '*'; ArRaY[3] = '/'; ArRaY[4] = '_'; ArRaY[5] = '0';
+		ArRaY[6] = '1'; ArRaY[7] = '2'; ArRaY[8] = '3'; ArRaY[9] = '4'; ArRaY[10] = '5'; ArRaY[11] = '6';
+		ArRaY[12] = '7'; ArRaY[13] = '8'; ArRaY[14] = '9'; ArRaY[15] = 'a'; ArRaY[16] = 'b'; ArRaY[17] = 'c';
+		ArRaY[18] = 'd'; ArRaY[19] = 'e'; ArRaY[20] = 'f'; ArRaY[21] = 'g'; ArRaY[22] = 'h'; ArRaY[23] = 'i';
+		ArRaY[24] = 'j'; ArRaY[25] = 'k'; ArRaY[26] = 'l'; ArRaY[27] = 'm'; ArRaY[28] = 'n'; ArRaY[29] = 'o';
+		ArRaY[30] = 'p'; ArRaY[31] = 'q'; ArRaY[32] = 'r'; ArRaY[33] = 's'; ArRaY[34] = 't'; ArRaY[35] = 'u';
+		ArRaY[36] = 'v'; ArRaY[37] = 'w'; ArRaY[38] = 'x'; ArRaY[39] = 'y'; ArRaY[40] = 'z'; ArRaY[41] = 'A';
+		ArRaY[42] = 'B'; ArRaY[43] = 'C'; ArRaY[44] = 'D'; ArRaY[45] = 'E'; ArRaY[46] = 'F'; ArRaY[47] = 'G';
+		ArRaY[48] = 'H'; ArRaY[49] = 'I'; ArRaY[50] = 'J'; ArRaY[51] = 'K'; ArRaY[52] = 'L'; ArRaY[53] = 'M';
+		ArRaY[54] = 'N'; ArRaY[55] = 'O'; ArRaY[56] = 'P'; ArRaY[57] = 'Q'; ArRaY[58] = 'R'; ArRaY[59] = 'S';
+		ArRaY[60] = 'T'; ArRaY[61] = 'U'; ArRaY[62] = 'V'; ArRaY[63] = 'W'; ArRaY[64] = 'X'; ArRaY[65] = 'Y'; ArRaY[66] = 'Z';
+		printf(con_char_1);						
+		return (array[fib(______)]);						
+	}
+}
+
+void fun1(char x){
+	const int con_int_1 = 02;
+	int tmp;	flag[0]=1;	flag[1]=-1;
+	if(CON_INT_1==1){
+		tmp = 1;
+	}
+	else if(CON_INT_1!=2){
+		tmp = 2;
+	}
+	else if((CON_INT_1-1)<=-1){
+		tmp = 3;
+	}
+	else if(flag[0]+flag[1]>CON_INT_1*CON_INT_1){
+		tmp = 4;
+	}
+	else if((+2+(-con_INT_1))/FLAG[0]>=10*flag[0]+fib(flAg[0]+4)){
+		tmp = 5;
+	}
+	else{
+		if((+2+(-con_INT_1))/FLAG[+2+(-con_INT_1)]+13!=10*flag[0]+fib(flAg[0]+fib(con_int_1)))
+			tmp = 7;
+		else
+			tmp = 6;
+	}
+	printf("FUNC WITH PARA BUT NO RETURN", tmp+x);							
+}
+
+void fun2{
+	int n, tmp[3], a;
+	char c;
+	n = 2;
+	tmp[n] = n;								
+	a = -(+2 + con_char_1 - '-' - (fib(3)))*(n / tmp[n] + 1);														
+	printf(a);
+	printf(tmp[n]);										
+	a = --001014 - '0';								
+	printf(a);
+	printf("");
+	printf(______);									
+	printf(" !#$%&'()*+,-./0123456789:;<=>?@ ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~");
+	return;										
+}
+
+void none1{;;;;{										
+	;}{{}{};}{printf("none1 ok");}
+}
+
+void none2{
+
+{{}{printf("none2 ok");}}}										
+
+void do_while_test(int x){
+	I = 0;										
+	do{											
+		flag[i] = I;
+		I = I + 1;
+	} while (i<100)
+	printf(flag[x]);
+}
+
+char fun3(int a1, int a2, int a3, int a4, int a5, char b1, char b2, char b3, char b4, char b5){
+	printf(b1);
+	printf(b2);
+	printf(b3);
+	printf(b4);
+	printf(b5);
+	printf(a1+a2+a3+a4+a5);
+	return(b1);
+}
+
+
+void main(){										
+	int in;
+	char cin;
+	scanf(mode,in);									
+	switch (mode){									
+		case 1:{									
+			   
+			   do_while_test(in);
+		}
+		case 2: {
+				scanf(cin);
+				fun1(cin);								
+				fun2;
+		}
+		case 3:{
+			   scanf(cin);							
+			   switch (cin){							
+			   	case '*': none1;					
+			   	case '/': none2;
+			   	default: printf("WRONG INPUT IN CASE3");
+			   }
+		}
+		case 4: printf(fun0);	
+		case 5: printf(fun3(_int_1,_int_2,_int_3,_int_4,_int_5,_char_1,_char_2,_char_3,_char_4,_char_5));			
+		default: printf("WRONG INPUT!");
+	}
+}

@@ -1,0 +1,4096 @@
+fib
+0: 
+_x
+use: 0
+def: 0
+in: 1
+out: 1
+#0
+use: 0
+def: 0
+in: 0
+out: 0
+#1
+use: 0
+def: 0
+in: 0
+out: 0
+#2
+use: 0
+def: 0
+in: 0
+out: 0
+#3
+use: 0
+def: 0
+in: 0
+out: 0
+#4
+use: 0
+def: 0
+in: 0
+out: 0
+1: 
+_x
+use: 1
+def: 0
+in: 1
+out: 1
+#0
+use: 0
+def: 0
+in: 0
+out: 0
+#1
+use: 0
+def: 0
+in: 0
+out: 0
+#2
+use: 0
+def: 0
+in: 0
+out: 0
+#3
+use: 0
+def: 0
+in: 0
+out: 0
+#4
+use: 0
+def: 0
+in: 0
+out: 0
+2: 
+_x
+use: 0
+def: 0
+in: 0
+out: 0
+#0
+use: 0
+def: 0
+in: 0
+out: 0
+#1
+use: 0
+def: 0
+in: 0
+out: 0
+#2
+use: 0
+def: 0
+in: 0
+out: 0
+#3
+use: 0
+def: 0
+in: 0
+out: 0
+#4
+use: 0
+def: 0
+in: 0
+out: 0
+3: 
+_x
+use: 1
+def: 0
+in: 1
+out: 1
+#0
+use: 0
+def: 0
+in: 0
+out: 0
+#1
+use: 0
+def: 0
+in: 0
+out: 0
+#2
+use: 0
+def: 0
+in: 0
+out: 0
+#3
+use: 0
+def: 0
+in: 0
+out: 0
+#4
+use: 0
+def: 0
+in: 0
+out: 0
+4: 
+_x
+use: 0
+def: 0
+in: 0
+out: 0
+#0
+use: 0
+def: 0
+in: 0
+out: 0
+#1
+use: 0
+def: 0
+in: 0
+out: 0
+#2
+use: 0
+def: 0
+in: 0
+out: 0
+#3
+use: 0
+def: 0
+in: 0
+out: 0
+#4
+use: 0
+def: 0
+in: 0
+out: 0
+5: 
+_x
+use: 1
+def: 0
+in: 1
+out: 1
+#0
+use: 0
+def: 1
+in: 0
+out: 0
+#1
+use: 0
+def: 0
+in: 0
+out: 0
+#2
+use: 0
+def: 0
+in: 0
+out: 0
+#3
+use: 0
+def: 0
+in: 0
+out: 0
+#4
+use: 0
+def: 0
+in: 0
+out: 0
+6: 
+_x
+use: 1
+def: 0
+in: 1
+out: 0
+#0
+use: 0
+def: 0
+in: 0
+out: 0
+#1
+use: 0
+def: 1
+in: 0
+out: 1
+#2
+use: 0
+def: 1
+in: 0
+out: 0
+#3
+use: 0
+def: 0
+in: 0
+out: 0
+#4
+use: 0
+def: 0
+in: 0
+out: 0
+7: 
+_x
+use: 0
+def: 0
+in: 0
+out: 0
+#0
+use: 0
+def: 0
+in: 0
+out: 0
+#1
+use: 1
+def: 0
+in: 1
+out: 0
+#2
+use: 0
+def: 0
+in: 0
+out: 0
+#3
+use: 0
+def: 1
+in: 0
+out: 0
+#4
+use: 0
+def: 1
+in: 0
+out: 0
+8: 
+_x
+use: 0
+def: 0
+in: 0
+out: 0
+#0
+use: 0
+def: 0
+in: 0
+out: 0
+#1
+use: 0
+def: 0
+in: 0
+out: 0
+#2
+use: 0
+def: 0
+in: 0
+out: 0
+#3
+use: 0
+def: 0
+in: 0
+out: 0
+#4
+use: 0
+def: 0
+in: 0
+out: 0
+9: 
+_x
+use: 0
+def: 0
+in: 0
+out: 0
+#0
+use: 0
+def: 0
+in: 0
+out: 0
+#1
+use: 0
+def: 0
+in: 0
+out: 0
+#2
+use: 0
+def: 0
+in: 0
+out: 0
+#3
+use: 0
+def: 0
+in: 0
+out: 0
+#4
+use: 0
+def: 0
+in: 0
+out: 0
+10: 
+_x
+use: 0
+def: 0
+in: 0
+out: 0
+#0
+use: 0
+def: 0
+in: 0
+out: 0
+#1
+use: 0
+def: 0
+in: 0
+out: 0
+#2
+use: 0
+def: 0
+in: 0
+out: 0
+#3
+use: 0
+def: 0
+in: 0
+out: 0
+#4
+use: 0
+def: 0
+in: 0
+out: 0
+fun0
+11: 
+#5
+use: 0
+def: 0
+in: 0
+out: 0
+#6
+use: 0
+def: 0
+in: 0
+out: 0
+12: 
+#5
+use: 0
+def: 0
+in: 0
+out: 0
+#6
+use: 0
+def: 0
+in: 0
+out: 0
+13: 
+#5
+use: 0
+def: 1
+in: 0
+out: 0
+#6
+use: 0
+def: 1
+in: 0
+out: 0
+14: 
+#5
+use: 0
+def: 0
+in: 0
+out: 0
+#6
+use: 0
+def: 0
+in: 0
+out: 0
+fun1
+15: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+tmp
+use: 0
+def: 0
+in: 0
+out: 0
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 0
+def: 0
+in: 0
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 0
+def: 0
+in: 0
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 0
+def: 0
+in: 0
+out: 0
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 0
+def: 0
+in: 0
+out: 0
+#23
+use: 0
+def: 0
+in: 0
+out: 0
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+16: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+tmp
+use: 0
+def: 0
+in: 0
+out: 0
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 0
+def: 0
+in: 0
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 0
+def: 0
+in: 0
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 0
+def: 0
+in: 0
+out: 0
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 0
+def: 0
+in: 0
+out: 0
+#23
+use: 0
+def: 0
+in: 0
+out: 0
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+17: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+tmp
+use: 0
+def: 1
+in: 0
+out: 1
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 0
+def: 0
+in: 0
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 0
+def: 0
+in: 0
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 0
+def: 0
+in: 0
+out: 0
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 0
+def: 0
+in: 0
+out: 0
+#23
+use: 0
+def: 0
+in: 0
+out: 0
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+18: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+tmp
+use: 0
+def: 0
+in: 0
+out: 0
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 0
+def: 0
+in: 0
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 0
+def: 0
+in: 0
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 0
+def: 0
+in: 0
+out: 0
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 0
+def: 0
+in: 0
+out: 0
+#23
+use: 0
+def: 0
+in: 0
+out: 0
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+19: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+tmp
+use: 0
+def: 1
+in: 0
+out: 1
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 0
+def: 0
+in: 0
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 0
+def: 0
+in: 0
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 0
+def: 0
+in: 0
+out: 0
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 0
+def: 0
+in: 0
+out: 0
+#23
+use: 0
+def: 0
+in: 0
+out: 0
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+20: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+tmp
+use: 0
+def: 0
+in: 0
+out: 0
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 0
+def: 0
+in: 0
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 0
+def: 0
+in: 0
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 0
+def: 0
+in: 0
+out: 0
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 0
+def: 0
+in: 0
+out: 0
+#23
+use: 0
+def: 0
+in: 0
+out: 0
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+21: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+tmp
+use: 0
+def: 1
+in: 0
+out: 1
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 0
+def: 0
+in: 0
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 0
+def: 0
+in: 0
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 0
+def: 0
+in: 0
+out: 0
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 0
+def: 0
+in: 0
+out: 0
+#23
+use: 0
+def: 0
+in: 0
+out: 0
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+22: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+tmp
+use: 0
+def: 0
+in: 0
+out: 0
+#7
+use: 0
+def: 1
+in: 0
+out: 0
+#8
+use: 0
+def: 1
+in: 0
+out: 0
+#9
+use: 0
+def: 1
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 0
+def: 0
+in: 0
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 0
+def: 0
+in: 0
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 0
+def: 0
+in: 0
+out: 0
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 0
+def: 0
+in: 0
+out: 0
+#23
+use: 0
+def: 0
+in: 0
+out: 0
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+23: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+tmp
+use: 0
+def: 1
+in: 0
+out: 1
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 0
+def: 0
+in: 0
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 0
+def: 0
+in: 0
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 0
+def: 0
+in: 0
+out: 0
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 0
+def: 0
+in: 0
+out: 0
+#23
+use: 0
+def: 0
+in: 0
+out: 0
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+24: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+tmp
+use: 0
+def: 0
+in: 0
+out: 0
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 1
+in: 0
+out: 0
+#11
+use: 0
+def: 1
+in: 0
+out: 1
+#12
+use: 0
+def: 1
+in: 0
+out: 0
+#13
+use: 0
+def: 1
+in: 0
+out: 1
+#14
+use: 0
+def: 1
+in: 0
+out: 0
+#15
+use: 0
+def: 1
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 0
+def: 0
+in: 0
+out: 0
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 0
+def: 0
+in: 0
+out: 0
+#23
+use: 0
+def: 0
+in: 0
+out: 0
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+25: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+tmp
+use: 0
+def: 0
+in: 0
+out: 0
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 1
+def: 0
+in: 1
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 1
+def: 0
+in: 1
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 1
+in: 0
+out: 0
+#17
+use: 0
+def: 1
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 0
+def: 0
+in: 0
+out: 0
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 0
+def: 0
+in: 0
+out: 0
+#23
+use: 0
+def: 0
+in: 0
+out: 0
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+26: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+tmp
+use: 0
+def: 1
+in: 0
+out: 1
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 0
+def: 0
+in: 0
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 0
+def: 0
+in: 0
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 0
+def: 0
+in: 0
+out: 0
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 0
+def: 0
+in: 0
+out: 0
+#23
+use: 0
+def: 0
+in: 0
+out: 0
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+27: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+tmp
+use: 0
+def: 0
+in: 0
+out: 0
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 0
+def: 0
+in: 0
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 0
+def: 0
+in: 0
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 1
+in: 0
+out: 0
+#19
+use: 0
+def: 1
+in: 0
+out: 0
+#20
+use: 0
+def: 1
+in: 0
+out: 1
+#21
+use: 0
+def: 1
+in: 0
+out: 0
+#22
+use: 0
+def: 1
+in: 0
+out: 1
+#23
+use: 0
+def: 1
+in: 0
+out: 1
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+28: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+tmp
+use: 0
+def: 0
+in: 0
+out: 0
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 0
+def: 0
+in: 0
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 0
+def: 0
+in: 0
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 0
+def: 0
+in: 1
+out: 1
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 0
+def: 0
+in: 1
+out: 1
+#23
+use: 1
+def: 0
+in: 1
+out: 0
+#24
+use: 0
+def: 1
+in: 0
+out: 0
+#25
+use: 0
+def: 1
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+29: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+tmp
+use: 0
+def: 0
+in: 0
+out: 0
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 0
+def: 0
+in: 0
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 0
+def: 0
+in: 0
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 1
+def: 0
+in: 1
+out: 0
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 1
+def: 0
+in: 1
+out: 0
+#23
+use: 0
+def: 0
+in: 0
+out: 0
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 1
+in: 0
+out: 0
+#27
+use: 0
+def: 1
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+30: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+tmp
+use: 0
+def: 1
+in: 0
+out: 1
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 0
+def: 0
+in: 0
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 0
+def: 0
+in: 0
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 0
+def: 0
+in: 0
+out: 0
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 0
+def: 0
+in: 0
+out: 0
+#23
+use: 0
+def: 0
+in: 0
+out: 0
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+31: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+tmp
+use: 0
+def: 1
+in: 0
+out: 1
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 0
+def: 0
+in: 0
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 0
+def: 0
+in: 0
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 0
+def: 0
+in: 0
+out: 0
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 0
+def: 0
+in: 0
+out: 0
+#23
+use: 0
+def: 0
+in: 0
+out: 0
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+32: 
+x
+use: 1
+def: 0
+in: 1
+out: 0
+tmp
+use: 1
+def: 0
+in: 1
+out: 0
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 0
+def: 0
+in: 0
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 0
+def: 0
+in: 0
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 0
+def: 0
+in: 0
+out: 0
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 0
+def: 0
+in: 0
+out: 0
+#23
+use: 0
+def: 0
+in: 0
+out: 0
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 1
+in: 0
+out: 0
+33: 
+x
+use: 0
+def: 0
+in: 0
+out: 0
+tmp
+use: 0
+def: 0
+in: 0
+out: 0
+#7
+use: 0
+def: 0
+in: 0
+out: 0
+#8
+use: 0
+def: 0
+in: 0
+out: 0
+#9
+use: 0
+def: 0
+in: 0
+out: 0
+#10
+use: 0
+def: 0
+in: 0
+out: 0
+#11
+use: 0
+def: 0
+in: 0
+out: 0
+#12
+use: 0
+def: 0
+in: 0
+out: 0
+#13
+use: 0
+def: 0
+in: 0
+out: 0
+#14
+use: 0
+def: 0
+in: 0
+out: 0
+#15
+use: 0
+def: 0
+in: 0
+out: 0
+#16
+use: 0
+def: 0
+in: 0
+out: 0
+#17
+use: 0
+def: 0
+in: 0
+out: 0
+#18
+use: 0
+def: 0
+in: 0
+out: 0
+#19
+use: 0
+def: 0
+in: 0
+out: 0
+#20
+use: 0
+def: 0
+in: 0
+out: 0
+#21
+use: 0
+def: 0
+in: 0
+out: 0
+#22
+use: 0
+def: 0
+in: 0
+out: 0
+#23
+use: 0
+def: 0
+in: 0
+out: 0
+#24
+use: 0
+def: 0
+in: 0
+out: 0
+#25
+use: 0
+def: 0
+in: 0
+out: 0
+#26
+use: 0
+def: 0
+in: 0
+out: 0
+#27
+use: 0
+def: 0
+in: 0
+out: 0
+#28
+use: 0
+def: 0
+in: 0
+out: 0
+fun2
+34: 
+n
+use: 0
+def: 0
+in: 0
+out: 0
+#29
+use: 0
+def: 0
+in: 0
+out: 0
+#30
+use: 0
+def: 0
+in: 0
+out: 0
+#31
+use: 0
+def: 0
+in: 0
+out: 0
+#32
+use: 0
+def: 0
+in: 0
+out: 0
+#33
+use: 0
+def: 0
+in: 0
+out: 0
+#34
+use: 0
+def: 0
+in: 0
+out: 0
+#35
+use: 0
+def: 0
+in: 0
+out: 0
+a
+use: 0
+def: 0
+in: 0
+out: 0
+#36
+use: 0
+def: 0
+in: 0
+out: 0
+35: 
+n
+use: 0
+def: 1
+in: 0
+out: 1
+#29
+use: 0
+def: 0
+in: 0
+out: 0
+#30
+use: 0
+def: 0
+in: 0
+out: 0
+#31
+use: 0
+def: 0
+in: 0
+out: 0
+#32
+use: 0
+def: 0
+in: 0
+out: 0
+#33
+use: 0
+def: 0
+in: 0
+out: 0
+#34
+use: 0
+def: 0
+in: 0
+out: 0
+#35
+use: 0
+def: 0
+in: 0
+out: 0
+a
+use: 0
+def: 0
+in: 0
+out: 0
+#36
+use: 0
+def: 0
+in: 0
+out: 0
+36: 
+n
+use: 1
+def: 0
+in: 1
+out: 0
+#29
+use: 0
+def: 1
+in: 0
+out: 0
+#30
+use: 0
+def: 1
+in: 0
+out: 0
+#31
+use: 0
+def: 1
+in: 0
+out: 0
+#32
+use: 0
+def: 1
+in: 0
+out: 0
+#33
+use: 0
+def: 1
+in: 0
+out: 0
+#34
+use: 0
+def: 1
+in: 0
+out: 0
+#35
+use: 0
+def: 1
+in: 0
+out: 0
+a
+use: 0
+def: 1
+in: 0
+out: 0
+#36
+use: 0
+def: 1
+in: 0
+out: 0
+37: 
+n
+use: 0
+def: 0
+in: 0
+out: 0
+#29
+use: 0
+def: 0
+in: 0
+out: 0
+#30
+use: 0
+def: 0
+in: 0
+out: 0
+#31
+use: 0
+def: 0
+in: 0
+out: 0
+#32
+use: 0
+def: 0
+in: 0
+out: 0
+#33
+use: 0
+def: 0
+in: 0
+out: 0
+#34
+use: 0
+def: 0
+in: 0
+out: 0
+#35
+use: 0
+def: 0
+in: 0
+out: 0
+a
+use: 0
+def: 0
+in: 0
+out: 0
+#36
+use: 0
+def: 0
+in: 0
+out: 0
+none1
+38: 
+39: 
+40: 
+none2
+41: 
+42: 
+43: 
+do_while_test
+44: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+i
+use: 0
+def: 0
+in: 0
+out: 0
+#37
+use: 0
+def: 0
+in: 0
+out: 0
+#38
+use: 0
+def: 0
+in: 0
+out: 0
+#39
+use: 0
+def: 0
+in: 0
+out: 0
+#40
+use: 0
+def: 0
+in: 0
+out: 0
+#41
+use: 0
+def: 0
+in: 0
+out: 0
+#42
+use: 0
+def: 0
+in: 0
+out: 0
+45: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+i
+use: 0
+def: 1
+in: 0
+out: 1
+#37
+use: 0
+def: 0
+in: 0
+out: 0
+#38
+use: 0
+def: 0
+in: 0
+out: 0
+#39
+use: 0
+def: 0
+in: 0
+out: 0
+#40
+use: 0
+def: 0
+in: 0
+out: 0
+#41
+use: 0
+def: 0
+in: 0
+out: 0
+#42
+use: 0
+def: 0
+in: 0
+out: 0
+46: 
+x
+use: 0
+def: 0
+in: 1
+out: 1
+i
+use: 1
+def: 0
+in: 1
+out: 1
+#37
+use: 0
+def: 1
+in: 0
+out: 0
+#38
+use: 0
+def: 1
+in: 0
+out: 0
+#39
+use: 0
+def: 1
+in: 0
+out: 0
+#40
+use: 0
+def: 1
+in: 0
+out: 0
+#41
+use: 0
+def: 1
+in: 0
+out: 0
+#42
+use: 0
+def: 0
+in: 0
+out: 0
+47: 
+x
+use: 1
+def: 0
+in: 1
+out: 0
+i
+use: 0
+def: 0
+in: 0
+out: 0
+#37
+use: 0
+def: 0
+in: 0
+out: 0
+#38
+use: 0
+def: 0
+in: 0
+out: 0
+#39
+use: 0
+def: 0
+in: 0
+out: 0
+#40
+use: 0
+def: 0
+in: 0
+out: 0
+#41
+use: 0
+def: 0
+in: 0
+out: 0
+#42
+use: 0
+def: 1
+in: 0
+out: 0
+48: 
+x
+use: 0
+def: 0
+in: 0
+out: 0
+i
+use: 0
+def: 0
+in: 0
+out: 0
+#37
+use: 0
+def: 0
+in: 0
+out: 0
+#38
+use: 0
+def: 0
+in: 0
+out: 0
+#39
+use: 0
+def: 0
+in: 0
+out: 0
+#40
+use: 0
+def: 0
+in: 0
+out: 0
+#41
+use: 0
+def: 0
+in: 0
+out: 0
+#42
+use: 0
+def: 0
+in: 0
+out: 0
+fun3
+49: 
+a1
+use: 0
+def: 0
+in: 1
+out: 1
+a2
+use: 0
+def: 0
+in: 1
+out: 1
+a3
+use: 0
+def: 0
+in: 1
+out: 1
+a4
+use: 0
+def: 0
+in: 1
+out: 1
+a5
+use: 0
+def: 0
+in: 1
+out: 1
+b1
+use: 0
+def: 0
+in: 1
+out: 1
+b2
+use: 0
+def: 0
+in: 1
+out: 1
+b3
+use: 0
+def: 0
+in: 1
+out: 1
+b4
+use: 0
+def: 0
+in: 1
+out: 1
+b5
+use: 0
+def: 0
+in: 1
+out: 1
+#43
+use: 0
+def: 0
+in: 0
+out: 0
+#44
+use: 0
+def: 0
+in: 0
+out: 0
+#45
+use: 0
+def: 0
+in: 0
+out: 0
+#46
+use: 0
+def: 0
+in: 0
+out: 0
+50: 
+a1
+use: 1
+def: 0
+in: 1
+out: 0
+a2
+use: 1
+def: 0
+in: 1
+out: 0
+a3
+use: 1
+def: 0
+in: 1
+out: 0
+a4
+use: 1
+def: 0
+in: 1
+out: 0
+a5
+use: 1
+def: 0
+in: 1
+out: 0
+b1
+use: 1
+def: 0
+in: 1
+out: 0
+b2
+use: 1
+def: 0
+in: 1
+out: 0
+b3
+use: 1
+def: 0
+in: 1
+out: 0
+b4
+use: 1
+def: 0
+in: 1
+out: 0
+b5
+use: 1
+def: 0
+in: 1
+out: 0
+#43
+use: 0
+def: 1
+in: 0
+out: 0
+#44
+use: 0
+def: 1
+in: 0
+out: 0
+#45
+use: 0
+def: 1
+in: 0
+out: 0
+#46
+use: 0
+def: 1
+in: 0
+out: 0
+51: 
+a1
+use: 0
+def: 0
+in: 0
+out: 0
+a2
+use: 0
+def: 0
+in: 0
+out: 0
+a3
+use: 0
+def: 0
+in: 0
+out: 0
+a4
+use: 0
+def: 0
+in: 0
+out: 0
+a5
+use: 0
+def: 0
+in: 0
+out: 0
+b1
+use: 0
+def: 0
+in: 0
+out: 0
+b2
+use: 0
+def: 0
+in: 0
+out: 0
+b3
+use: 0
+def: 0
+in: 0
+out: 0
+b4
+use: 0
+def: 0
+in: 0
+out: 0
+b5
+use: 0
+def: 0
+in: 0
+out: 0
+#43
+use: 0
+def: 0
+in: 0
+out: 0
+#44
+use: 0
+def: 0
+in: 0
+out: 0
+#45
+use: 0
+def: 0
+in: 0
+out: 0
+#46
+use: 0
+def: 0
+in: 0
+out: 0
+main
+52: 
+mode
+use: 0
+def: 0
+in: 1
+out: 1
+in
+use: 0
+def: 0
+in: 1
+out: 1
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 0
+def: 0
+in: 1
+out: 1
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+53: 
+mode
+use: 1
+def: 0
+in: 1
+out: 0
+in
+use: 1
+def: 0
+in: 1
+out: 1
+#47
+use: 0
+def: 1
+in: 0
+out: 1
+cin
+use: 0
+def: 0
+in: 1
+out: 1
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+54: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 1
+def: 0
+in: 1
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+55: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+56: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 1
+def: 0
+in: 1
+out: 1
+cin
+use: 0
+def: 0
+in: 1
+out: 1
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+57: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 1
+def: 0
+in: 1
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+58: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+59: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+60: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 1
+def: 0
+in: 1
+out: 1
+cin
+use: 0
+def: 0
+in: 1
+out: 1
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+61: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 1
+def: 0
+in: 1
+out: 1
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+62: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+63: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+64: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 1
+def: 0
+in: 1
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+65: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+66: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+67: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+68: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+69: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 1
+def: 0
+in: 1
+out: 1
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+70: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+71: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 1
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+72: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 1
+def: 0
+in: 1
+out: 0
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+73: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+74: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 1
+in: 0
+out: 0
+75: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0
+76: 
+mode
+use: 0
+def: 0
+in: 0
+out: 0
+in
+use: 0
+def: 0
+in: 0
+out: 0
+#47
+use: 0
+def: 0
+in: 0
+out: 0
+cin
+use: 0
+def: 0
+in: 0
+out: 0
+#48
+use: 0
+def: 0
+in: 0
+out: 0
+#49
+use: 0
+def: 0
+in: 0
+out: 0

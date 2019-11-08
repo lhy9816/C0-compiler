@@ -1,0 +1,25 @@
+﻿  Compiler.cpp
+  error.cpp
+  gen_midcode.cpp
+  gen_objcode.cpp
+d:\原f盘\高工作业\计算机科学与技术\编译技术\16231137_李航宇_申优\源代码\buaa-compiler-mipscode_save\buaa-compiler\gen_objcode.cpp(196): warning C4101: “it”: 未引用的局部变量
+d:\原f盘\高工作业\计算机科学与技术\编译技术\16231137_李航宇_申优\源代码\buaa-compiler-mipscode_save\buaa-compiler\gen_objcode.cpp(742): warning C4101: “reg_name”: 未引用的局部变量
+d:\原f盘\高工作业\计算机科学与技术\编译技术\16231137_李航宇_申优\源代码\buaa-compiler-mipscode_save\buaa-compiler\gen_objcode.cpp(741): warning C4101: “it”: 未引用的局部变量
+d:\原f盘\高工作业\计算机科学与技术\编译技术\16231137_李航宇_申优\源代码\buaa-compiler-mipscode_save\buaa-compiler\gen_objcode.cpp(1258): warning C4101: “f_blk”: 未引用的局部变量
+  gen_old_objcode.cpp
+  grammar.cpp
+  lexical.cpp
+  main.cpp
+  optimizer.cpp
+d:\原f盘\高工作业\计算机科学与技术\编译技术\16231137_李航宇_申优\源代码\buaa-compiler-mipscode_save\buaa-compiler\optimizer.cpp(468): warning C4101: “idx”: 未引用的局部变量
+d:\原f盘\高工作业\计算机科学与技术\编译技术\16231137_李航宇_申优\源代码\buaa-compiler-mipscode_save\buaa-compiler\optimizer.cpp(857): warning C4101: “middd”: 未引用的局部变量
+d:\原f盘\高工作业\计算机科学与技术\编译技术\16231137_李航宇_申优\源代码\buaa-compiler-mipscode_save\buaa-compiler\optimizer.cpp(666): warning C4101: “mkup_node”: 未引用的局部变量
+d:\原f盘\高工作业\计算机科学与技术\编译技术\16231137_李航宇_申优\源代码\buaa-compiler-mipscode_save\buaa-compiler\optimizer.cpp(867): warning C4101: “middd”: 未引用的局部变量
+d:\原f盘\高工作业\计算机科学与技术\编译技术\16231137_李航宇_申优\源代码\buaa-compiler-mipscode_save\buaa-compiler\optimizer.cpp(897): warning C4101: “tar_i”: 未引用的局部变量
+d:\原f盘\高工作业\计算机科学与技术\编译技术\16231137_李航宇_申优\源代码\buaa-compiler-mipscode_save\buaa-compiler\optimizer.cpp(1700): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  symbolitem.cpp
+  正在生成代码...
+d:\原f盘\高工作业\计算机科学与技术\编译技术\16231137_李航宇_申优\源代码\buaa-compiler-mipscode_save\buaa-compiler\optimizer.cpp(73): warning C4715: “trancate_string”: 不是所有的控件路径都返回值
+d:\原f盘\高工作业\计算机科学与技术\编译技术\16231137_李航宇_申优\源代码\buaa-compiler-mipscode_save\buaa-compiler\lexical.cpp(381): warning C4715: “Compiler::getSym”: 不是所有的控件路径都返回值
+d:\原f盘\高工作业\计算机科学与技术\编译技术\16231137_李航宇_申优\源代码\buaa-compiler-mipscode_save\buaa-compiler\grammar.cpp(1609): warning C4715: “Compiler::factor”: 不是所有的控件路径都返回值
+  BUAA-Compiler.vcxproj -> D:\原F盘\高工作业\计算机科学与技术\编译技术\16231137_李航宇_申优\源代码\BUAA-Compiler-mipscode_save\x64\Debug\BUAA-Compiler.exe

@@ -1,0 +1,18 @@
+const char _char_1 = 'a';
+const int _int_1 = 1;
+
+char fun1(int a1, int a2, int a3, int a4, int a5, char b1, char b2, char b3, char b4, char b5){
+	printf(b1);
+	printf(b2);
+	printf(b3);
+	printf(b4);
+	printf(b5);
+	printf(a1+a2+a3+a4+a5);
+	return(b1);
+}
+
+void main(){
+	const char _char_2 = 'b', _char_3 = 'c', _char_4 = 'd', _char_5 = 'e';
+	const int _int_2 = 2, _int_3 = 3, _int_4 = 4, _int_5 = 5;
+	printf(fun1(_int_1,_int_2,_int_3,_int_4,_int_5,_char_1,_char_2,_char_3,_char_4,_char_5));
+}

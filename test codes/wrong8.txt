@@ -1,0 +1,22 @@
+const Char  con_char_1 = 'a', con_char_2 =  '+';		
+const int  con_int_1 = +001, con_int_2 = -007;		
+const int ______ = 2;
+
+int i, flag[100];						
+int mode;
+
+void fun1{
+	int j, k;
+	j = 1;
+	k = 3 / 0;
+	return k;
+}
+
+void main(){
+	char c;
+	s = 1;
+	c = 9;
+	flag[100]=0;
+	con_char_1 = 's';
+	return;	
+}

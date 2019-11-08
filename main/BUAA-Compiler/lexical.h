@@ -1,0 +1,25 @@
+#pragma once
+#include "Compiler.h"
+// 单词的枚举变量定义
+
+
+
+//const int MaxReserve = 15;
+//const int MaxOp = 22;
+
+enum tokenType {
+	// 用于停止查找
+	NONE = -1,
+	// 保留字 共15个
+	MAINTK = 0, CONSTTK, INTTK, CHARTK, VOIDTK, IFTK, ELSETK, DOTK, WHILETK,
+	SWITCHTK, CASETK, DEFAULTTK, SCANFTK, PRINTFTK, RETURNTK,
+	// 分界符或操作符，共22个
+	ASSIGNSY, PLUSSY, SUBSY, MULTSY, DIVSY, LESSY, LESEQSY, GRTSY,
+	GRTEQSY, NEQUALSY, EQUALSY, COMMASY, COLONSY, SEMICOLONSY, LSBRASY,
+	RSBRASY, LMBRASY, RMBRASY, LBBRASY, RBBRASY, SIGQUOSY, DUBQUOSY,
+	// 用户定义标识符，共4个
+	IDEN, STRINGUSR, CHARUSR, NUMUSR,
+	
+};
+
+

@@ -1,0 +1,156 @@
+Const int num_1 = 1, num_2 = 2;
+cOnst char ch_a = 'a' , ch_b = 'b';
+const char plus = '+', times = '*', minus = '-', div = '/';
+char arrary[10];
+int i; 
+
+void fun_check1 {
+    int flag, res;
+    int a,b;
+    char op;
+    flag = 1;
+    res = 0;
+    do{
+    scanf(a,b,op);
+    printf(a);
+        printf(op);
+        printf(b);
+        printf("=");
+        switch (op){
+            case '+' : {
+                res = a+b;
+                printf(res);
+                flag = 0 ;     
+            }
+            case '-' :{
+                res= a-b;
+                printf(res);
+                flag = 0;
+            }
+            case '*':{
+                res = a*b;
+                printf(res);
+                flag = 0;
+            }
+            case '/':{
+                if (b == 0) printf("couldn't div,because b=0!");
+                else{
+                    res = a/b;
+                    printf(res);
+                    flag = 0;
+                }
+            }
+            default : {
+                printf("error",op);
+                flag = 1;
+            }
+        }
+        
+    }while (flag !=1)
+}
+
+int fun_check2(int m,int n)
+{    
+    int i;    
+    if (m < n )
+        return ( m );
+    else{
+        i= m-m/n*n;
+        return (i);
+    }
+
+} 
+
+int fun_check3(int m,int n)
+{
+    if(n>m) return( fun_check3(n,m));
+    else{
+        if (n==0) return(m);
+        else return (fun_check3(n,fun_check2(m,n)));
+    }
+    
+}
+
+char fun_check4
+{
+    int flag, i;
+    char a;
+    flag = 0;
+    i = 0;
+    printf("please input 10 letter:");
+    do{
+        scanf(a);
+        arrary[i]=a;
+        i=i+1;    
+    }    while (i<=9)
+    i=0;
+    do{
+        if(i==4){
+            flag =1;
+        }
+        else
+            if (arrary[i]==arrary[9-i])
+            {
+                i=i+1;
+                flag =0;
+            }
+            else 
+            {
+                flag = 1;    
+            }    
+        
+    }while(flag ==0)
+    if (i==4)
+        printf("it's huiwenchuan");
+    else
+        printf("isn't huiwenchuan");
+}
+
+int fun_check5(int n)
+{
+    if (n == 0)
+        return (+div*(minus / 1000 - 1) + plus - times--1 / times + ('/'*(-1 + 2)));
+    else
+        return (n*fun_check5(n - 1));
+}
+
+
+
+void main()
+{
+    int choice,a,b;
+    int n;
+    scanf(choice);
+    do {
+        switch ((choice + 0/5) * 4 / 4 + 19 - 19)
+        {
+        case 1: {
+            printf("it is calculator for a and b:")    ;
+            printf("please input a,b,op:");
+            fun_check1;
+        }
+        case 2: {
+            printf("MOD please input a,b:");
+            scanf(a,b);
+            fun_check2(a,b);
+        }
+        case 3: {
+            printf("for GCD");
+            fun_check3(a,b);
+        }
+        case 4: {
+            printf("check huiwenchuan");
+            fun_check4;
+        }
+    case 5:{
+        printf("check exper");
+        fun_check5(n);
+        }
+       default: {
+            printf("Wrong number:", choice);
+        }
+        }
+        printf("    ");
+        scanf(choice);
+    }while (choice !=0)
+}

@@ -1,0 +1,266 @@
+@init fib
+if _x != 1 goto ~LABEL1
+%RET = 1
+@j  ~fib_end
+~LABEL1
+if _x != 2 goto ~LABEL3
+%RET = 2
+@j  ~fib_end
+~LABEL3
+#0 = _x - 1
+@push #0 _x 0
+@call fib
+#1 = %RET
+#2 = _x - 2
+@push #2 %RET 0
+@call fib
+#3 = %RET
+#4 = #1 + #3
+%RET = #4
+@j  ~fib_end
+~LABEL4
+@j  ~fib_end
+@prints ^str_0
+%RET = -1
+~fib_end
+@ret fib
+@init fun0
+array[0] = 43
+array[1] = 45
+array[2] = 42
+array[3] = 47
+array[4] = 95
+array[5] = 48
+array[6] = 49
+array[7] = 50
+array[8] = 51
+array[9] = 52
+array[10] = 53
+array[11] = 54
+array[12] = 55
+array[13] = 56
+array[14] = 57
+array[15] = 97
+array[16] = 98
+array[17] = 99
+array[18] = 100
+array[19] = 101
+array[20] = 102
+array[21] = 103
+array[22] = 104
+array[23] = 105
+array[24] = 106
+array[25] = 107
+array[26] = 108
+array[27] = 109
+array[28] = 110
+array[29] = 111
+array[30] = 112
+array[31] = 113
+array[32] = 114
+array[33] = 115
+array[34] = 116
+array[35] = 117
+array[36] = 118
+array[37] = 119
+array[38] = 120
+array[39] = 121
+array[40] = 122
+array[41] = 65
+array[42] = 66
+array[43] = 67
+array[44] = 68
+array[45] = 69
+array[46] = 70
+array[47] = 71
+array[48] = 72
+array[49] = 73
+array[50] = 74
+array[51] = 75
+array[52] = 76
+array[53] = 77
+array[54] = 78
+array[55] = 79
+array[56] = 80
+array[57] = 81
+array[58] = 82
+array[59] = 83
+array[60] = 84
+array[61] = 85
+array[62] = 86
+array[63] = 87
+array[64] = 88
+array[65] = 89
+array[66] = 90
+@printv char 95
+@push 2 0 0
+@call fib
+#5 = %RET
+#6 = array[#5]
+%RET = #6
+~fun0_end
+@ret fun0
+@init fun1
+flag[0] = 1
+flag[1] = -1
+@j  ~LABEL10
+tmp = 1
+@j  ~LABEL17
+~LABEL6
+@j  ~LABEL10
+tmp = 2
+@j  ~LABEL17
+~LABEL8
+@j  ~LABEL10
+tmp = 3
+@j  ~LABEL17
+~LABEL10
+#7 = flag[0]
+#8 = flag[1]
+#9 = #7 + #8
+if #9 <= 4 goto ~LABEL12
+tmp = 4
+@j  ~LABEL17
+~LABEL12
+#11 = 0
+#10 = flag[0]
+#13 = 10 * #10
+#15 = #10 + 4
+@push #15 flag 0
+@call fib
+#16 = %RET
+#17 = #13 + #16
+if #11 < #17 goto ~LABEL14
+tmp = 5
+@j  ~LABEL17
+~LABEL14
+#18 = flag[0]
+#23 = #18
+#20 = 0 + 13
+#22 = 10 * #18
+@push 2 flag 0
+@call fib
+#24 = %RET
+#25 = #23 + #24
+@push #25 %RET 0
+@call fib
+#26 = %RET
+#27 = #22 + #26
+if #20 == #27 goto ~LABEL16
+tmp = 7
+@j  ~LABEL17
+~LABEL16
+tmp = 6
+~LABEL17
+@prints ^str_1
+#28 = tmp + x
+@printv int #28
+~fun1_end
+@ret fun1
+@init fun2
+n = 2
+tmp[2] = 2
+@push 3 2 0
+@call fib
+#29 = %RET
+#30 = 54 - #29
+#31 = tmp[n]
+#32 = n / #31
+#33 = #32 + 1
+#34 = #30 * #33
+a = 0 - #34
+@printv int a
+@printv int #31
+@printv int 966
+@prints ^str_2
+@printv int 2
+@prints ^str_3
+~fun2_end
+@ret fun2
+@init none1
+@prints ^str_4
+~none1_end
+@ret none1
+@init none2
+@prints ^str_5
+~none2_end
+@ret none2
+@init do_while_test
+i = 0
+~LABEL18
+flag[i] = i
+i = i + 1
+if i < 100 goto ~LABEL18
+#42 = flag[x]
+@printv int #42
+~do_while_test_end
+@ret do_while_test
+@init fun3
+@printv char b1
+@printv char b2
+@printv char b3
+@printv char b4
+@printv char b5
+#43 = a1 + a2
+#44 = #43 + a3
+#45 = #44 + a4
+#46 = #45 + a5
+@printv int #46
+%RET = b1
+~fun3_end
+@ret fun3
+@init main
+@scanf mode
+@scanf in
+#47 = mode
+if #47 != 1 goto ~LABEL20
+@push in in 0
+@call do_while_test
+@j  ~main_end
+~LABEL20
+if #47 != 2 goto ~LABEL21
+@scanf cin
+@push cin SCANF 0
+@call fun1
+@call fun2
+@j  ~main_end
+~LABEL21
+if #47 != 3 goto ~LABEL22
+@scanf cin
+if cin != 42 goto ~LABEL24
+@call none1
+@j  ~main_end
+~LABEL24
+if cin != 47 goto ~LABEL25
+@call none2
+@j  ~main_end
+~LABEL25
+@prints ^str_6
+~LABEL23
+@j  ~main_end
+~LABEL22
+if #47 != 4 goto ~LABEL26
+@call fun0
+#48 = %RET
+@printv char #48
+@j  ~main_end
+~LABEL26
+if #47 != 5 goto ~LABEL27
+@push 1 1 0
+@push 2 1 1
+@push 3 1 2
+@push 4 1 3
+@push 5 1 4
+@push 97 1 5
+@push 98 1 6
+@push 99 1 7
+@push 100 1 8
+@push 101 1 9
+@call fun3
+#49 = %RET
+@printv char #49
+@j  ~main_end
+~LABEL27
+@prints ^str_7
+~main_end
+<EXIT> 
